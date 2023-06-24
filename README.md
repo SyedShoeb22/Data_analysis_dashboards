@@ -25,9 +25,9 @@ The AtliQ Grands Business Intelligence Dashboard offers the following features:
  - The dashboard design is based on the mock-up provided by the stakeholders. It offers an intuitive and visually appealing interface to explore the data and gain valuable insights.
 
 ## Image of Dashboard:
-![image](https://github.com/SyedShoeb22/Data_analysis_dashboards/assets/99830705/aa78618d-bb57-4c38-8602-39fcecf756b2)
+![1](https://github.com/SyedShoeb22/Data_analysis_dashboards/assets/99830705/a50a6ebb-2c9a-4103-8157-ba620115e26c)
+![2](https://github.com/SyedShoeb22/Data_analysis_dashboards/assets/99830705/fcd4b8e4-1413-43f2-9ee8-2752497c73b1)
 
-![image](https://github.com/SyedShoeb22/Data_analysis_dashboards/assets/99830705/563765a5-c82e-482b-b718-53ac3b71afe2)
 
 ### mock up dashboard image:
 ![mock up dashboard_atliq grands](https://github.com/SyedShoeb22/Data_analysis_dashboards/assets/99830705/bc7082de-cfb0-489a-8768-6121cb3229ee)

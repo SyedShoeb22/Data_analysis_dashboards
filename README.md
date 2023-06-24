@@ -29,7 +29,7 @@ The AtliQ Grands Business Intelligence Dashboard offers the following features:
 ## Insight from the dashboard
  - Presidential room's occuapancy 45% which is higher compared to other 3 classes which are Premium, standard, and Elite.
  - Delhi has the highest average rating 3.8 which is followed by Hyderabad, Mumbai, and Bangalore.
- - In weekly trend, highest revenue realised is in week 19 and 23 but from week 19 to 23 rating has decreased.
+ - In weekly trend, highest revenue realised is in week 19 and 23 which is 139.6 Million. But from week 19 to 23 rating has decreased.
 
 ## Contact
 For any inquiries or feedback, please contact Syed Shoeb at syedshoeb8380@gmail.com.  

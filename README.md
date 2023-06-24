@@ -24,12 +24,23 @@ The AtliQ Grands Business Intelligence Dashboard offers the following features:
 ## Dashboard: 
  - The dashboard design is based on the mock-up provided by the stakeholders. It offers an intuitive and visually appealing interface to explore the data and gain valuable insights.
 
+## Image of Dashboard:
+![image](https://github.com/SyedShoeb22/Data_analysis_dashboards/assets/99830705/aa78618d-bb57-4c38-8602-39fcecf756b2)
+
+![image](https://github.com/SyedShoeb22/Data_analysis_dashboards/assets/99830705/563765a5-c82e-482b-b718-53ac3b71afe2)
+
+### mock up dashboard image:
+![image](https://github.com/SyedShoeb22/Data_analysis_dashboards/assets/99830705/28de15aa-7816-4f31-86b8-d91799a43d5c)
+
+
+
 ## Additional Insights: 
  - In addition to the predefined metrics and mock-up, this dashboard project goes beyond the given requirements. It generates additional insights by utilizing advanced data analysis techniques and visualization.
 ## Insight from the dashboard
  - Presidential room's occuapancy 45% which is higher compared to other 3 classes which are Premium, standard, and Elite.
  - Delhi has the highest average rating 3.8 which is followed by Hyderabad, Mumbai, and Bangalore.
  - In weekly trend, highest revenue realised is in week 19 and 23 which is 139.6 Million. But from week 19 to 23 rating has decreased.
+ - AtliQ Exotica has the highest ADR 32870, Revenue 118M and RevPAR 11k  
 
 ## Contact
 For any inquiries or feedback, please contact Syed Shoeb at syedshoeb8380@gmail.com.  

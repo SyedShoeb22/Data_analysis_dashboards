@@ -30,7 +30,8 @@ The AtliQ Grands Business Intelligence Dashboard offers the following features:
 ![image](https://github.com/SyedShoeb22/Data_analysis_dashboards/assets/99830705/563765a5-c82e-482b-b718-53ac3b71afe2)
 
 ### mock up dashboard image:
-![image](https://github.com/SyedShoeb22/Data_analysis_dashboards/assets/99830705/28de15aa-7816-4f31-86b8-d91799a43d5c)
+![mock up dashboard_atliq grands](https://github.com/SyedShoeb22/Data_analysis_dashboards/assets/99830705/bc7082de-cfb0-489a-8768-6121cb3229ee)
+
 
 
 
